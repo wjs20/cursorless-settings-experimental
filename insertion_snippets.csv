@@ -1,0 +1,14 @@
+Spoken form, Cursorless identifier
+if, ifStatement
+if else, ifElseStatement
+if if else,ifIfElseStatement
+list comprehension,listComprehension
+null check,nullCheck
+ternary,ternaryExpression
+for loop,forLoop
+try, tryCatchStatement
+subclass,subclass
+import,import
+import from,importFrom
+import as,importAs
+model,Model
